@@ -1,0 +1,217 @@
+x=-15
+.*
+optimization finished, #iter = 11
+Objective value = -0.037610
+nSV = 1578
+Accuracy = 77.5% (155/200)
+F= 0.7788461538461539
+x=-14
+.*
+optimization finished, #iter = 18
+Objective value = -0.069060
+nSV = 1562
+Accuracy = 81% (162/200)
+F= 0.8097560975609757
+x=-13
+..*
+optimization finished, #iter = 24
+Objective value = -0.120661
+nSV = 1522
+Accuracy = 81.5% (163/200)
+F= 0.8137254901960785
+x=-12
+...*.
+optimization finished, #iter = 40
+Objective value = -0.201757
+nSV = 1463
+Accuracy = 81% (162/200)
+F= 0.8078817733990147
+x=-11
+.....*
+optimization finished, #iter = 53
+Objective value = -0.319744
+nSV = 1389
+Accuracy = 82% (164/200)
+F= 0.8177339901477833
+x=-10
+.......*
+optimization finished, #iter = 76
+Objective value = -0.474980
+nSV = 1293
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+x=-9
+..........*
+optimization finished, #iter = 101
+Objective value = -0.654798
+nSV = 1206
+Accuracy = 84% (168/200)
+F= 0.8374384236453202
+x=-8
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+x=-7
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+x=-6
+................*
+optimization finished, #iter = 165
+Objective value = -1.097997
+nSV = 1041
+Accuracy = 83% (166/200)
+F= 0.8292682926829269
+x=-5
+...............*.***
+optimization finished, #iter = 167
+Objective value = -1.171590
+nSV = 1019
+Accuracy = 83% (166/200)
+F= 0.8292682926829269
+x=-4
+................*.*
+optimization finished, #iter = 171
+Objective value = -1.217887
+nSV = 1005
+Accuracy = 82.5% (165/200)
+F= 0.82
+x=-3
+.................***
+optimization finished, #iter = 177
+Objective value = -1.246905
+nSV = 994
+Accuracy = 83.5% (167/200)
+F= 0.83
+x=-2
+.................*.*
+optimization finished, #iter = 183
+Objective value = -1.264841
+nSV = 994
+Accuracy = 83% (166/200)
+F= 0.8241206030150754
+x=-1
+.................***
+optimization finished, #iter = 179
+Objective value = -1.275436
+nSV = 991
+Accuracy = 83% (166/200)
+F= 0.8241206030150754
+x=0
+.................*.*.*
+optimization finished, #iter = 191
+Objective value = -1.281360
+nSV = 989
+Accuracy = 83.5% (167/200)
+F= 0.8282828282828283
+x=1
+.................**.*
+optimization finished, #iter = 183
+Objective value = -1.284506
+nSV = 990
+Accuracy = 83.5% (167/200)
+F= 0.8282828282828283
+x=2
+.................**
+optimization finished, #iter = 177
+Objective value = -1.286133
+nSV = 990
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=3
+.................*
+optimization finished, #iter = 171
+Objective value = -1.286954
+nSV = 991
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=4
+.................**.***
+optimization finished, #iter = 186
+Objective value = -1.287392
+nSV = 989
+Accuracy = 83.5% (167/200)
+F= 0.8282828282828283
+x=5
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287596
+nSV = 991
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=6
+.................*
+optimization finished, #iter = 178
+Objective value = -1.287700
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=7
+.................**.*
+optimization finished, #iter = 181
+Objective value = -1.287757
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=8
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287781
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=9
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287794
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=10
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287801
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=11
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287804
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=12
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287806
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=13
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287806
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=14
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287807
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568
+x=15
+.................**
+optimization finished, #iter = 179
+Objective value = -1.287807
+nSV = 989
+Accuracy = 84% (168/200)
+F= 0.8341708542713568

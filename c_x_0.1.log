@@ -1,0 +1,160 @@
+1回目のループ
+x=-9
+..........*
+optimization finished, #iter = 101
+Objective value = -0.654798
+nSV = 1206
+Accuracy = 84% (168/200)
+F= 0.8374384236453202
+2回目のループ
+x=-8.9
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+3回目のループ
+x=-8.8
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+4回目のループ
+x=-8.7
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+5回目のループ
+x=-8.6
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+6回目のループ
+x=-8.5
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+7回目のループ
+x=-8.4
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+8回目のループ
+x=-8.3
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+9回目のループ
+x=-8.2
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+10回目のループ
+x=-8.1
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+11回目のループ
+x=-8.0
+............*
+optimization finished, #iter = 122
+Objective value = -0.833884
+nSV = 1142
+Accuracy = 85% (170/200)
+F= 0.848780487804878
+12回目のループ
+x=-7.9
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+13回目のループ
+x=-7.8
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+14回目のループ
+x=-7.7
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+15回目のループ
+x=-7.6
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+16回目のループ
+x=-7.5
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+17回目のループ
+x=-7.4
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+18回目のループ
+x=-7.3
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+19回目のループ
+x=-7.2
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334
+20回目のループ
+x=-7.1
+.............*.*
+optimization finished, #iter = 142
+Objective value = -0.986248
+nSV = 1075
+Accuracy = 83.5% (167/200)
+F= 0.8333333333333334

@@ -1,0 +1,15 @@
+#!/bin/sh
+
+
+a=2^x
+
+for x in -15 -10 -5 0 5 10 15
+
+do
+
+	./train -B 1 -c a ~/kadai2017/liblinear-2.11/devel.txt
+
+	./predict ~/kadai2017/liblinear-2.11/devel.txt ~/kadai2017/liblinear-2.11/train.txt.model predict{a}.txt
+
+	python3 F_measure2.py ~/kadai2017/liblinear-2.11/devel.txt ~/kadai2017/liblinear-2.11/predict{a}.txt
+done	
